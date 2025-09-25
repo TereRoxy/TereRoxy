@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on a Duolingo for Other Things desktop application in C#, and a web Music Scores Library
-- 🌱 I’m currently learning AI, Web Programming, Database Management Systems, and Software Engineering
 - ✨ I'm passionate about twisty puzzles, music and programming
-- 📈 I’m looking for my first internship, for opportunities to grow, explore and get any kind of hands-on experience in IT
+- 📈 I’m looking for opportunities to grow
 - 🤔 I'd like to know more about cybersecurity, embedded systems and sound processing
 
 ## <h align="center"> Befriended </h>
